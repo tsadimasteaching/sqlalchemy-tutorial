@@ -7,3 +7,7 @@ dbvenv/
 __pycache__/
 
 *.env
+
+
+*/.idea
+*/.vscode
